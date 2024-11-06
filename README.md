@@ -66,7 +66,7 @@ class LancadorPrioridade {
         b.interrupt();
         System.out.println("Finalizando Threads...");
     }
-}`
+}```
 
 ### Explicação do Código
 
