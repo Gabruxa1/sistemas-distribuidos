@@ -15,10 +15,6 @@ Passo 2: Adicionar o Código
 
 Adicione o seguinte trecho de código ao seu arquivo Java. Ele inclui a definição das threads de baixa e alta prioridade e o código para gerenciá-las.
 
-java
-
-Copiar código
-
 `class BaixaPrioridade extends Thread {
     public void run() {
         setPriority(Thread.MIN_PRIORITY);
