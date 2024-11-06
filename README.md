@@ -79,10 +79,6 @@ Passo 3: Compilar o Arquivo Java
 
 Abra o terminal, navegue até a pasta onde o arquivo `.java` foi salvo e execute o comando abaixo para compilar o programa:
 
-bash
-
-Copiar código
-
 `javac LancadorPrioridade.java`
 
 Esse comando cria um arquivo `.class` com o código compilado, necessário para executar o programa.
@@ -91,10 +87,6 @@ Passo 4: Executar o Programa
 ----------------------------
 
 Ainda no terminal, execute o programa com o comando:
-
-bash
-
-Copiar código
 
 `java LancadorPrioridade`
 
